@@ -1,0 +1,1 @@
+package minijava.symboltable ;public abstract class MType {}
