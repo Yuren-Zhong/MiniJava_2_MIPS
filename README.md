@@ -1,4 +1,4 @@
-# MiniJava 2 MIPS Compiler
+# MiniJava to MIPS Compiler
 
 Compiler, which translates minijava (a subset of Java) source file to MIPS assembly code after type checking.
 
