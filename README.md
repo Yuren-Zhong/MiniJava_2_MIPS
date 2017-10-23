@@ -1,6 +1,6 @@
 # MiniJava to MIPS Compiler
 
-Compiler, which translates MiniJava (a subset of Java) source file to MIPS assembly code after type checking.
+MiniJava is a subset of Java. This compiler takes MiniJava source files as inputs and outputs corresponding MIPS assembly code, and meanwhile generates intermediate representations Piglet, Spiglet and Kanga. The entire procedure consists of phases such as type checking, generating and simplifying assembly-like code, allocating registers and adding stack frames.
 
 More details about the project: http://web.cs.ucla.edu/~palsberg/course/cs132/project.html
 
